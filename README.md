@@ -271,17 +271,6 @@ the moment the SSH session closes or the server reboots.
 
 ---
 
-## Resume Line
-
-Deployed production FastAPI RAG inference API to AWS EC2
-(t3.micro, Ubuntu 24.04, eu-central-1 Frankfurt) with systemd
-service management for auto-restart on failure. Configured
-security groups, SSH key authentication, virtual environment,
-CORS middleware, and 3 REST endpoints with OpenAPI documentation.
-Stack: AWS EC2 · Ubuntu · systemd · FastAPI · Python
-
----
-
 ## Related Projects
 
 | Project | Description | Live |
