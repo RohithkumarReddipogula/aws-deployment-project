@@ -278,7 +278,7 @@ the moment the SSH session closes or the server reboots.
 | [Hybrid RAG System](https://github.com/RohithkumarReddipogula/AI-Powered-Rag-System) | BM25 + dense embeddings · 93% Recall@10 · 8.84M passages | [Demo](https://rohith2026-hybrid-rag-demo.hf.space) · [API](https://rohith2026-hybrid-rag-api.hf.space/docs) |
 | [AI Agent System](https://github.com/RohithkumarReddipogula/ai-agent-project) | ReAct agent · LangGraph · 3 tools | [Demo](https://rohith2026-ai-agent-react.hf.space) |
 | [LLM Fine-Tuning](https://github.com/RohithkumarReddipogula/llm-finetune-project) | QLoRA · TinyLlama 1.1B · HuggingFace Hub | [Model](https://huggingface.co/Rohith2026/nlp-rag-expert) |
-| [LLM Evaluation](https://github.com/RohithkumarReddipogula/llm-evaluation-project) | RAGAS · 5 metrics · Streamlit dashboard | [Dashboard](https://rohith2026-llm-evaluation-dashboard.hf.space) |
+| [LLM Evaluation](https://github.com/RohithkumarReddipogula/llm-evaluation-project) | RAGAS · 5 metrics · Streamlit dashboard | [Dashboard](https://huggingface.co/spaces/ROHITHKUMARREDDIOGULa/llm-evaluation-dashboard) |
 | AWS Deployment (this) | EC2 · systemd · FastAPI · Production API | [API](http://3.71.32.203:8000/docs) |
 
 ---
